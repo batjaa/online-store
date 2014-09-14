@@ -1,2 +1,2 @@
-online-store
+Online Store
 ============
